@@ -36,8 +36,8 @@
 
 
 ## API Endpoint
-* `https://onix.info/api/` for mainnet
-* `https://testnet.onix.info/api/` for testnet
+* `https://api.onixcoin.io:7001` for mainnet
+* No current endpoint for testnet
 
 
 ## Pagination Parameters
